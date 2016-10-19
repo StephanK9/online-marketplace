@@ -1,0 +1,16 @@
+.personname {
+  text-decoration: underline;
+  color: blue;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bolder;
+}
+.city {
+  color: blue;
+}
+.zip {
+  color: red;
+}
+.address {
+  color: red;
+}
